@@ -1,0 +1,2 @@
+# ABRASION-TESTER
+This Equipment is Designed to determine the Wear &amp; Durability of Paper and Board, Ceramics, Plastic, Textile, Rubber, Flooring, Painted, Lacquered &amp; Electroplated Surfaces.  The Motorized Equipment with single or Double Independent Abraser unit is provided along with the Vacuum Dust Extractor and the Digital "Predetermined Cycle Counter", mounted on the Front Panel with selections between 1 to 99,999 Numbers.
